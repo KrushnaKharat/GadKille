@@ -374,7 +374,12 @@ li {
 .banner {
   position: relative;
 
+
   background: url("./..//images/Foliage_Outdoors_-_Mulshi_Camping___5_.jpg");
+
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url("./..//images/Foliage_Outdoors_-_Mulshi_Camping___5_.jpg");
+
+
 
   background-position: center;
   background-size: cover;
